@@ -1,4 +1,6 @@
-# StructureAnimation
+# videos (& presentations) 
+
+Code for visuals and sound effects for video projects and presentations
 
 Setup Conda
 * Download onto local cmpt
